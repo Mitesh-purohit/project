@@ -1,0 +1,6 @@
+
+train: D:/DATA_SCI_6/Traffic Dataset/images/train
+val: D:/DATA_SCI_6/Traffic Dataset/images/val
+
+nc: 5
+names: ['Car','Two Wheeler', 'Auto', 'Bus', 'Truck']
